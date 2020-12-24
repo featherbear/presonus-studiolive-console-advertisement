@@ -22,4 +22,4 @@ Until I implement a ~better~ proper command line argument parser, you can modify
 
 ## Research and Development
 
-Read more [here](https://featherbear.cc/presonus-studiolive-api/protocol.html)
+Read more [here](https://featherbear.cc/presonus-studiolive-api)
